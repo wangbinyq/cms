@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](https://semver.org/).
 
-## [0.15.9] - Unreleased
+## [0.15.9] - 2026-09-18
 ### Added
 - Portugese translation [#79].
 
@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - Submit the form on pressing ctrl/cmd + Enter from a textarea.
 
 ### Fixed
+- Url to PWA manifest [#80].
 - Break words in headers.
 
 ## [0.15.8] - 2026-08-04
@@ -977,8 +978,9 @@ First version
 [#75]: https://github.com/lumeland/cms/issues/75
 [#76]: https://github.com/lumeland/cms/issues/76
 [#79]: https://github.com/lumeland/cms/issues/79
+[#80]: https://github.com/lumeland/cms/issues/80
 
-[0.15.9]: https://github.com/lumeland/cms/compare/v0.15.8...HEAD
+[0.15.9]: https://github.com/lumeland/cms/compare/v0.15.8...v0.15.9
 [0.15.8]: https://github.com/lumeland/cms/compare/v0.15.7...v0.15.8
 [0.15.7]: https://github.com/lumeland/cms/compare/v0.15.6...v0.15.7
 [0.15.6]: https://github.com/lumeland/cms/compare/v0.15.5...v0.15.6
